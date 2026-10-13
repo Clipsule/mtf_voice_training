@@ -1,7 +1,14 @@
 {
   "rewrites": [
-    { "source": "/ja/:path+", "destination": "/:path+" },
+    { "source": "/en", "destination": "/index-en.html" },
+    { "source": "/en/", "destination": "/index-en.html" },
+    { "source": "/ja", "destination": "/index-ja.html" },
+    { "source": "/ja/", "destination": "/index-ja.html" },
+    { "source": "/ko", "destination": "/index-ko.html" },
+    { "source": "/ko/", "destination": "/index-ko.html" },
+
     { "source": "/en/:path+", "destination": "/:path+" },
+    { "source": "/ja/:path+", "destination": "/:path+" },
     { "source": "/ko/:path+", "destination": "/:path+" }
   ]
 }
