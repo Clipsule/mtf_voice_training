@@ -2,8 +2,6 @@
 
 ## 贡献者 Contributors
 
-## 贡献者 Contributors
-
 <table>
 <tr>
 <td align="center" style="padding: 20px;">
