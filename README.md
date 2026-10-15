@@ -1,9 +1,20 @@
 # mtf_voice_training
 
-## Contributors
+## 贡献者 Contributors
 
+<table>
+<tr>
+<td align="center" style="padding: 20px;">
+<a href="https://github.com/Clipsule">
+<img src="https://avatars.githubusercontent.com/u/42507345?v=4" width="80" height="80" style="border-radius: 50%;"/></a><br/>
+<b>Clipsule</b><br/>
+<sub>创作者 / 所有者</sub>
+</td>
+<td align="center" style="padding: 20px;">
 <a href="https://github.com/sunZshanY">
-  <img src="https://avatars.githubusercontent.com/u/215339879?v=4" width="80" height="80" alt="sunZshanY"/>
-  <br/>
-  <sub><b>Yu Sun</b></sub>
-</a>
+<img src="https://avatars.githubusercontent.com/u/215339879?v=4" width="80" height="80" style="border-radius: 50%;"/></a><br/>
+<b>Yu Sun</b><br/>
+<sub>项目贡献 / 支持</sub>
+</td>
+</tr>
+</table>
