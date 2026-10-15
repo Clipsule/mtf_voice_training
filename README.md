@@ -6,7 +6,7 @@
 <tr>
 <td align="center" style="padding: 20px;">
 <a href="https://github.com/Clipsule">
-<img src="https://avatars.githubusercontent.com/u/42507345?v=4" width="80" height="80" style="border-radius: 50%;"/></a><br/>
+<img src="https://raw.githubusercontent.com/Clipsule/PicGo/master/zip/b_488ba4a8a30e36295980925da3ce19d5.jpg" width="80" height="80" style="border-radius: 50%;"/></a><br/>
 <b>Clipsule</b><br/>
 <sub>创作者 / 所有者</sub>
 </td>
